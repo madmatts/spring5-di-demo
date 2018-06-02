@@ -1,4 +1,4 @@
-package guru.springframework;
+package guru.springframework.examplebeans;
 
 public class FakeDataSource {
 
